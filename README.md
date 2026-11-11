@@ -3,7 +3,6 @@
 Suite file manager untuk Windows — ringan, tanpa Electron, dibuat dari nol.
 
 - **Publisher / Developer:** bawapi-katak
-- **Kontributor:** Rafie Akila
 - **Platform:** Windows 10/11 (x64)
 
 ## Aplikasi yang termasuk
@@ -32,7 +31,13 @@ Lihat **Releases**: `KatakFILES-Setup.exe` (GUI) dan
 
 - 12 & 25 November 2026 — Update Batch
 - 2, 4, 12 Desember 2026 — Patch
-- **2027 — Katak Files 2 (64-bit) — Coming Soon**
+- **2027 — Katak Files 2** — akan dipamerkan di rilis mendatang; **belum bisa di-download**
+- **Katak Files Terminal** — file manager berbasis terminal penuh (sudah rilis: Katak-Files Administrator)
+
+## Katak Files 2 (2027) — Showcase
+
+Belum dirilis, belum bisa di-download. Rencana resmi: hadir pada 2027 sebagai
+generasi berikut Katak Files Suite.
 
 ## Kontribusi
 
