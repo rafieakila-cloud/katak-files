@@ -29,7 +29,7 @@ Lihat **Releases**: `KatakFILES-Setup.exe` (GUI) dan
 
 ## Roadmap
 
-- 12 & 25 November 2026 — Update Batch
+- 25 November 2026 — Update Batch #1 (dipindah dari 12 Nov)
 - 2, 4, 12 Desember 2026 — Patch
 - **2027 — Katak Files 2** — akan dipamerkan di rilis mendatang; **belum bisa di-download**
 - **Katak Files Terminal** — file manager berbasis terminal penuh (sudah rilis: Katak-Files Administrator)
